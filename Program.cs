@@ -19,7 +19,7 @@ namespace e3
                 // affichage principal //
                 Console.CursorVisible = false;
                 Console.SetCursorPosition(5, 3);
-                Console.WriteLine("$FIGHT\n\n");
+                Console.WriteLine("$FIGHT 2\n\n");
                 for (int i = 0; i < 15; i++)
                 {
                     Idle();
